@@ -105,8 +105,8 @@
         {
           "type": "git",
           "url": "https://github.com/RioTheDev/emojify.git",
-          "commit": "ee05a7d2b4c303fde9115648d9899588d0de9067",
-          "tag": "v1.2.0"
+          "commit": "6d5a23d8eebc86539167e07e9d5627c641019fe7",
+          "tag": "v1.2.4"
         }
       ]
     }
