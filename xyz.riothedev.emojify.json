@@ -101,12 +101,16 @@
     {
       "name": "emojify",
       "buildsystem": "meson",
-      "sources": [
+	  "sources": [
         {
-          "type": "git",
-          "url": "https://github.com/RioTheDev/emojify.git",
-          "commit": "77af3893fc624b4432f5eb4d755f16789b7e02d9",
-          "tag": "v1.2.5"
+          "type": "archive",
+          "url": "https://github.com/RioTheDev/emojify/archive/refs/tags/v1.2.7.tar.gz",
+          "sha256": "36ae22db40e7fefb075e48bd957e49231128555111df94554bf1cc58e68ba032",
+          "x-checker-data": {
+            "type": "git",
+            "url": "https://github.com/RioTheDev/emojify.git",
+            "tag-pattern": "^v([\\d.]+)$"
+          }
         }
       ]
     }
