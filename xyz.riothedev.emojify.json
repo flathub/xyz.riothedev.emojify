@@ -121,8 +121,8 @@
                 {
                     "type": "git",
                     "url": "https://github.com/RioTheDev/emojify.git",
-                    "tag": "v1.2.13",
-                    "commit": "f42f77e06beaec4c2e0a59e2fe9333ebb4e72b13",
+                    "tag": "v1.3.0",
+                    "commit": "86745a3a978a291bae7d05f6051457a64212dc6a",
                     "x-checker-data": {
                         "type": "git",
                         "tag-pattern": "^v([\\d.]+)$"
